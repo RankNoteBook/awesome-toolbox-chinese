@@ -58,6 +58,8 @@
 
 - [clipperly.com](https://clipperly.com/zh) - Clipperly - All-in-one file service. Convert, edit and optimize your files, online & free.
 
+- - [ranknotebook.org](https://www.ranknotebook.org/tools/repair-html) - HTML Repair Tool by RankNoteBook
+
   - Featured tools: [Video Converter](https://clipperly.com/zh/convert/video), [Image Converter](https://clipperly.com/zh/convert/image), [Document converter](https://clipperly.com/zh/convert/document), [Image editor](https://clipperly.com/zh/edit/image)
 
 - [ctfever.uniiem.com](https://ctfever.uniiem.com/) - CTFever Toolkit by uniiem
